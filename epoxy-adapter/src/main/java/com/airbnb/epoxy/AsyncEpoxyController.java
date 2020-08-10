@@ -22,7 +22,7 @@ public abstract class AsyncEpoxyController extends EpoxyController {
 
   /**
    * @param enableAsync True to do model building and diffing asynchronously, false to do them
-   *                    both on the main thread.
+   *                   both on the main thread.
    */
   public AsyncEpoxyController(boolean enableAsync) {
     this(enableAsync, enableAsync);
