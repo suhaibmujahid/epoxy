@@ -11,7 +11,7 @@ import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsyncBackgroundHandler;
  * <p>
  * See https://github.com/airbnb/epoxy/wiki/Epoxy-Controller#asynchronous-support
  */
-public abstract class AsyncEpoxyController55 extends EpoxyController {
+public abstract class AsyncEpoxyController extends EpoxyController {
 
   /**
    * A new instance that does model building and diffing asynchronously.
