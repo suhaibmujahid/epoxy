@@ -5,5 +5,6 @@ internal fun String.lowerCaseFirstLetter(): String {
         return this
     }
 
+    
     return Character.toLowerCase(get(0)) + substring(1)
 }
