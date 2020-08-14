@@ -1,6 +1,7 @@
 package com.airbnb.epoxy
 
 
+
 import com.airbnb.epoxy.Utils.belongToTheSamePackage
 import com.airbnb.epoxy.Utils.isFieldPackagePrivate
 import com.airbnb.epoxy.Utils.isSubtype
