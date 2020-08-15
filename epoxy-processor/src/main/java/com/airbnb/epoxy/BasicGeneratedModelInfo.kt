@@ -38,6 +38,7 @@ internal class BasicGeneratedModelInfo(
         collectMethodsReturningClassType(superClassElement, types)
 
         if (!typeVariableNames.isEmpty()) {
+            
             this.parametrizedClassName = ParameterizedTypeName.get(
                 generatedClassName,
                 *typeVariableNames.toTypedArray()
