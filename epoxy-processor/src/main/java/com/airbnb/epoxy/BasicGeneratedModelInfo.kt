@@ -4,6 +4,7 @@ package com.airbnb.epoxy
 
 
 import com.airbnb.epoxy.Utils.getElementByName
+
 import com.airbnb.epoxy.Utils.getEpoxyObjectType
 import com.squareup.javapoet.ClassName
 import com.squareup.javapoet.ParameterizedTypeName
