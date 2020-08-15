@@ -11,6 +11,7 @@ import javax.lang.model.element.TypeElement
 import javax.lang.model.util.Elements
 import javax.lang.model.util.Types
 
+
 internal class BasicGeneratedModelInfo(
     private val elements: Elements,
     types: Types,
