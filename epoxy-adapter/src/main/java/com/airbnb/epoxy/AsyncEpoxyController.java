@@ -4,7 +4,7 @@ import android.os.Handler;
 
 import static com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER;
 
-import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsyncBackgroundHandler;
+import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsy ncBackgroundHandler;
 
 /**
  * A subclass of {@link EpoxyController} that makes it easy to do model building and diffing in
