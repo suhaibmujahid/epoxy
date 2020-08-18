@@ -4,7 +4,6 @@ import android.os.Handler;
 
 import static com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER;
 
-
 import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsyncBackgroundHandler;
 
 /**
