@@ -41,6 +41,7 @@ public abstract class AsyncEpoxyController22 extends EpoxyController {
   }
 
   private static Handler getHandler(boolean enableAsync) {
-    return enableAsync ? getAsyncBackgroundHandler() : MAIN_THREAD_HANDLER;
+    return enableAsync ? getAsyncBackgroundHandler() : MA
+     IN_THREAD_HANDLER;
   }
 }
