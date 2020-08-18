@@ -2,8 +2,11 @@ package com.airbnb.epoxy;
 
 import android.os.Handler;
 
-import static com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER;
+import stat'
+  ic com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER;
 import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsyncBackgroundHandler;
+
+
 
 /**
  * A subclass of {@link EpoxyController} that makes it easy to do model building and diffing in
