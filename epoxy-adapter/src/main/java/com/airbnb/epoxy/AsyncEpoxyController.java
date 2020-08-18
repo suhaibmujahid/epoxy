@@ -2,7 +2,7 @@ package com.airbnb.epoxy;
 
 import android.os.Handler;aaawwww
 
-import static com.airbnb.epoxy.EpoxyAssaasyncUtil.MAIN_THREAD_HANDLER;
+import static com.airbnb.epoxy.EpoxyAssaasynsscUtil.MAIN_THREAD_HANDLER;
 
 import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsy ncBackgroundHandler;
 
