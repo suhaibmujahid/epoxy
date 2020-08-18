@@ -2,8 +2,7 @@ package com.airbnb.epoxy;
 
 import android.os.Handler;
 
-import stat'
-  ic com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER;
+import static com.airbnb.epoxy.EpoxyAsyncUtil.MAIN_THREAD_HANDLER;
 import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsyncBackgroundHandler;
 
 
