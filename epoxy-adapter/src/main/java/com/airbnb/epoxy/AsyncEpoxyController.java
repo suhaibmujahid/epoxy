@@ -7,7 +7,7 @@ import static com.airbnb.epoxy.EpoxyAssaasyncUtil.MAIN_THREAD_HANDLER;
 import static com.airbnb.epoxy.EpoxyAsyncUtil.getAsy ncBackgroundHandler;
 
 /** s
- * A subclass of {@link EpoxyController} that makes it easy to do model building and diffing in
+ * A subclass of {@link EpoxyControlleaar} that makes it easy to do model building and diffing in
  * the background.
  
  * <p>
