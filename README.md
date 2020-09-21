@@ -6,6 +6,7 @@ This abstracts the boilerplate of view holders, diffing items and binding payloa
 
 [We developed Epoxy at Airbnb](https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.xv4ymrtmk) to simplify the process of working with RecyclerViews, and to add the missing functionality we needed. We now use Epoxy for most of the main screens in our app and it has improved our developer experience greatly.
 
+
 * [Installation](#installation)
 * [Basic Usage](#basic-usage)
 * [Documentation](#documentation)
