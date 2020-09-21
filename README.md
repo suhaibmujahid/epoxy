@@ -15,6 +15,7 @@ This abstracts the boilerplate of view holders, diffing items and binding payloa
 
 ## Installation
 
+
 Gradle is the only supported build configuration, so just add the dependency to your project `build.gradle` file:
 
 ```groovy
